@@ -1,4 +1,3 @@
-# Netflix-Dashboard
 # 🎬 Netflix Content Analytics Dashboard
 
 This is an interactive Power BI dashboard project that analyzes content from Netflix using a publicly available dataset. The goal of the project is to extract meaningful insights about content trends, genres, countries, and contributor data to better understand the platform’s offerings over time.
